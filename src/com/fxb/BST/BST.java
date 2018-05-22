@@ -92,16 +92,54 @@ public class BST<Key extends Comparable<Key>,Value> {
 
     }
 
-    public Key select(){
-
+    /**
+     * 排名为k 是指树中有k个小于它的键　即第ｋ+１大的键
+     * @param k
+     * @return
+     */
+    public Key select(int k){
+        //判断空
+        if(select(root,k)==null){
+            return null;
+        }else
+            return select(root,k).key;
     }
 
     private Node select(Node x,int k){
-
+        if(x==null)
+            return null;
+        int t=size(x.left);
+        if(k<t){
+            return select(x.left,k);
+        }else if(k>t){
+            return select(x.right,k-t-1);
+        }else
+            return x;
     }
 
+    /**
+     * rank()是select()的逆方法
+     * @param key
+     * @return
+     */
     public int rank(Key key){
+        try {
+            return rank(root,key);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
+    private int rank(Node x,Key key) throws Exception {
+        if(x==null){
+            throw new Exception("root can not be null!");
+        }
+        if(x.key.compareTo(key)==0){
+            return size(x.left);
+        }else if(x.key.compareTo(key)>0){
+            return rank(x.left,key);
+        }else
+            return size(x.left)+1+rank(x.right,key);
     }
 
     public void deleteMin(){
