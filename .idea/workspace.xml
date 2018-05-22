@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f1eb6c-d414-40b2-b323-87f21b0fa32d" name="Default" comment="" />
+    <list default="true" id="59f1eb6c-d414-40b2-b323-87f21b0fa32d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/fxb/BST/BST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/fxb/BST/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/fxb/BST/符号表.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Tree.java" afterPath="$PROJECT_DIR$/src/Tree.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,33 +23,29 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="342" column="5" lean-forward="true" selection-start-line="342" selection-start-column="5" selection-end-line="342" selection-end-column="5" />
+            <state relative-caret-position="499">
+              <caret line="345" column="0" lean-forward="true" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#288#289#0" expanded="true" />
                 <element signature="e#320#321#0" expanded="true" />
                 <element signature="e#1107#1108#0" expanded="true" />
                 <element signature="e#1144#1145#0" expanded="true" />
-                <element signature="e#1479#1489#0" expanded="true" />
                 <element signature="e#2006#2007#0" expanded="true" />
                 <element signature="e#2044#2045#0" expanded="true" />
-                <element signature="e#2383#2393#0" expanded="true" />
                 <element signature="e#2886#2887#0" expanded="true" />
                 <element signature="e#2925#2926#0" expanded="true" />
-                <element signature="e#3268#3278#0" expanded="true" />
                 <element signature="e#4076#4077#0" expanded="true" />
                 <element signature="e#4111#4112#0" expanded="true" />
-                <element signature="e#4216#4226#0" expanded="true" />
                 <element signature="e#4774#4775#0" expanded="true" />
                 <element signature="e#4823#4824#0" expanded="true" />
                 <element signature="e#6043#6044#0" expanded="true" />
@@ -64,11 +67,74 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+              <folding>
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="符号表.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/符号表.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="completeBinaryTree.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="completeBinaryTree1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completeBinaryTree1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -93,6 +159,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -110,6 +179,9 @@
         <option value="$PROJECT_DIR$/completeBinaryTree1.txt" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Tree.java" />
+        <option value="$PROJECT_DIR$/src/com/fxb/BST/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/fxb/BST/BST.java" />
+        <option value="$PROJECT_DIR$/src/com/fxb/BST/符号表.md" />
       </list>
     </option>
   </component>
@@ -120,11 +192,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="57" />
-    <option name="y" value="21" />
-    <option name="width" value="1309" />
-    <option name="height" value="747" />
+    <option name="x" value="247" />
+    <option name="y" value="17" />
+    <option name="width" value="1221" />
+    <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -140,7 +213,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,13 +247,16 @@
               <item name="Tree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,30 +338,36 @@
       <workItem from="1522329351798" duration="599000" />
       <workItem from="1522407770383" duration="4979000" />
       <workItem from="1523541916252" duration="4543000" />
-      <workItem from="1523597693694" duration="5697000" />
+      <workItem from="1523597693694" duration="6890000" />
+      <workItem from="1523622923390" duration="732000" />
+      <workItem from="1523677667037" duration="181000" />
+      <workItem from="1523705909253" duration="1937000" />
+      <workItem from="1526731901928" duration="1576000" />
+      <workItem from="1526868468010" duration="599000" />
+      <workItem from="1526955857885" duration="2581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17408000" />
+    <option name="totallyTimeSpent" value="26207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="21" width="1366" height="768" extended-state="6" />
+    <frame x="247" y="17" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33021808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24621212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27045456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25757575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -295,6 +380,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -310,6 +396,327 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="85" column="5" lean-forward="false" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#2006#2007#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4076#4077#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+            <element signature="e#4774#4775#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#6043#6044#0" expanded="true" />
+            <element signature="e#6080#6081#0" expanded="true" />
+            <element signature="e#6381#6382#0" expanded="true" />
+            <element signature="e#6421#6422#0" expanded="true" />
+            <element signature="e#6682#6683#0" expanded="true" />
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="e#7024#7025#0" expanded="true" />
+            <element signature="e#7073#7074#0" expanded="true" />
+            <element signature="e#7918#7919#0" expanded="true" />
+            <element signature="e#7952#7953#0" expanded="true" />
+            <element signature="e#8435#8436#0" expanded="true" />
+            <element signature="e#8470#8471#0" expanded="true" />
+            <element signature="e#8815#8816#0" expanded="true" />
+            <element signature="e#8857#8858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4665">
+          <caret line="342" column="5" lean-forward="true" selection-start-line="342" selection-start-column="5" selection-end-line="342" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#2006#2007#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4076#4077#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+            <element signature="e#4774#4775#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#6043#6044#0" expanded="true" />
+            <element signature="e#6080#6081#0" expanded="true" />
+            <element signature="e#6381#6382#0" expanded="true" />
+            <element signature="e#6421#6422#0" expanded="true" />
+            <element signature="e#6682#6683#0" expanded="true" />
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="e#7024#7025#0" expanded="true" />
+            <element signature="e#7073#7074#0" expanded="true" />
+            <element signature="e#7918#7919#0" expanded="true" />
+            <element signature="e#7952#7953#0" expanded="true" />
+            <element signature="e#8435#8436#0" expanded="true" />
+            <element signature="e#8470#8471#0" expanded="true" />
+            <element signature="e#8815#8816#0" expanded="true" />
+            <element signature="e#8857#8858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#2006#2007#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4076#4077#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+            <element signature="e#4774#4775#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#6043#6044#0" expanded="true" />
+            <element signature="e#6080#6081#0" expanded="true" />
+            <element signature="e#6381#6382#0" expanded="true" />
+            <element signature="e#6421#6422#0" expanded="true" />
+            <element signature="e#6682#6683#0" expanded="true" />
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="e#7024#7025#0" expanded="true" />
+            <element signature="e#7073#7074#0" expanded="true" />
+            <element signature="e#7918#7919#0" expanded="true" />
+            <element signature="e#7952#7953#0" expanded="true" />
+            <element signature="e#8435#8436#0" expanded="true" />
+            <element signature="e#8470#8471#0" expanded="true" />
+            <element signature="e#8815#8816#0" expanded="true" />
+            <element signature="e#8857#8858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#2006#2007#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4076#4077#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+            <element signature="e#4774#4775#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#6043#6044#0" expanded="true" />
+            <element signature="e#6080#6081#0" expanded="true" />
+            <element signature="e#6381#6382#0" expanded="true" />
+            <element signature="e#6421#6422#0" expanded="true" />
+            <element signature="e#6682#6683#0" expanded="true" />
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="e#7024#7025#0" expanded="true" />
+            <element signature="e#7073#7074#0" expanded="true" />
+            <element signature="e#7918#7919#0" expanded="true" />
+            <element signature="e#7952#7953#0" expanded="true" />
+            <element signature="e#8435#8436#0" expanded="true" />
+            <element signature="e#8470#8471#0" expanded="true" />
+            <element signature="e#8815#8816#0" expanded="true" />
+            <element signature="e#8857#8858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -344,16 +751,12 @@
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#1107#1108#0" expanded="true" />
             <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1479#1489#0" expanded="true" />
             <element signature="e#2006#2007#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2383#2393#0" expanded="true" />
             <element signature="e#2886#2887#0" expanded="true" />
             <element signature="e#2925#2926#0" expanded="true" />
-            <element signature="e#3268#3278#0" expanded="true" />
             <element signature="e#4076#4077#0" expanded="true" />
             <element signature="e#4111#4112#0" expanded="true" />
-            <element signature="e#4216#4226#0" expanded="true" />
             <element signature="e#4774#4775#0" expanded="true" />
             <element signature="e#4823#4824#0" expanded="true" />
             <element signature="e#6043#6044#0" expanded="true" />
@@ -386,20 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="41" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="e#421#422#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#714#715#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,16 +802,12 @@
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#1107#1108#0" expanded="true" />
             <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1479#1489#0" expanded="true" />
             <element signature="e#2006#2007#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2383#2393#0" expanded="true" />
             <element signature="e#2886#2887#0" expanded="true" />
             <element signature="e#2925#2926#0" expanded="true" />
-            <element signature="e#3268#3278#0" expanded="true" />
             <element signature="e#4076#4077#0" expanded="true" />
             <element signature="e#4111#4112#0" expanded="true" />
-            <element signature="e#4216#4226#0" expanded="true" />
             <element signature="e#4774#4775#0" expanded="true" />
             <element signature="e#4823#4824#0" expanded="true" />
             <element signature="e#6043#6044#0" expanded="true" />
@@ -455,20 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#421#422#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#714#715#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,16 +853,12 @@
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#1107#1108#0" expanded="true" />
             <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1479#1489#0" expanded="true" />
             <element signature="e#2006#2007#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2383#2393#0" expanded="true" />
             <element signature="e#2886#2887#0" expanded="true" />
             <element signature="e#2925#2926#0" expanded="true" />
-            <element signature="e#3268#3278#0" expanded="true" />
             <element signature="e#4076#4077#0" expanded="true" />
             <element signature="e#4111#4112#0" expanded="true" />
-            <element signature="e#4216#4226#0" expanded="true" />
             <element signature="e#4774#4775#0" expanded="true" />
             <element signature="e#4823#4824#0" expanded="true" />
             <element signature="e#6043#6044#0" expanded="true" />
@@ -530,16 +897,12 @@
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#1107#1108#0" expanded="true" />
             <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1479#1489#0" expanded="true" />
             <element signature="e#2006#2007#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2383#2393#0" expanded="true" />
             <element signature="e#2886#2887#0" expanded="true" />
             <element signature="e#2925#2926#0" expanded="true" />
-            <element signature="e#3268#3278#0" expanded="true" />
             <element signature="e#4076#4077#0" expanded="true" />
             <element signature="e#4111#4112#0" expanded="true" />
-            <element signature="e#4216#4226#0" expanded="true" />
             <element signature="e#4774#4775#0" expanded="true" />
             <element signature="e#4823#4824#0" expanded="true" />
             <element signature="e#6043#6044#0" expanded="true" />
@@ -564,20 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#421#422#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#714#715#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,28 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="480" column="13" lean-forward="false" selection-start-line="480" selection-start-column="13" selection-end-line="480" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#421#422#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#714#715#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,18 +963,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fullCompleteTree.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completeBinaryTree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -663,31 +990,35 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="342" column="5" lean-forward="true" selection-start-line="342" selection-start-column="5" selection-end-line="342" selection-end-column="5" />
+        <state relative-caret-position="499">
+          <caret line="345" column="0" lean-forward="true" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#1107#1108#0" expanded="true" />
             <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1479#1489#0" expanded="true" />
             <element signature="e#2006#2007#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2383#2393#0" expanded="true" />
             <element signature="e#2886#2887#0" expanded="true" />
             <element signature="e#2925#2926#0" expanded="true" />
-            <element signature="e#3268#3278#0" expanded="true" />
             <element signature="e#4076#4077#0" expanded="true" />
             <element signature="e#4111#4112#0" expanded="true" />
-            <element signature="e#4216#4226#0" expanded="true" />
             <element signature="e#4774#4775#0" expanded="true" />
             <element signature="e#4823#4824#0" expanded="true" />
             <element signature="e#6043#6044#0" expanded="true" />
@@ -705,6 +1036,43 @@
             <element signature="e#8815#8816#0" expanded="true" />
             <element signature="e#8857#8858#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fxb/BST/符号表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

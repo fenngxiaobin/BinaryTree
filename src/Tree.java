@@ -170,7 +170,7 @@ public class Tree {
         while(!queue.isEmpty()){
             TreeNode node=queue.poll();
             if(mustHaveNoChild){
-                if(node.getLeft()!=null&&node.getRight()!=null){
+                if(node.getLeft()!=null||node.getRight()!=null){
                     result=false;
                     break;
                 }
